@@ -1,0 +1,5 @@
+# Utsav Sharma
+#command,function name,message
+help,helpFun,when Command 'help'is received.
+sumsq,smsqFun,when Command 'sumsq'is received. 
+time,timeFun,when Command 'time'is received.
